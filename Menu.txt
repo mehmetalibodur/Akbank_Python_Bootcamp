@@ -1,0 +1,15 @@
+Lütfen bir Pizza Tercihinizi Yapýnýz:
+1: Klasik
+2: Margarita
+3: TurkPizza
+4: DominosPizza
+
+ve Sos seçimleriniz:
+11: Zeytin
+12: Mantar
+13: KeçiPeyniri
+14: Et
+15: Soðan
+16: Mýsýr
+
+Teþekkür Ederiz!
